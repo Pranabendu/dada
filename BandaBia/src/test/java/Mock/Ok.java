@@ -22,7 +22,6 @@ public class Ok {
 		for (int i : arr) {
 			System.out.println(i);
 		}
-		//my name pranab
 	}
-	
+	//my name pranab
 }
