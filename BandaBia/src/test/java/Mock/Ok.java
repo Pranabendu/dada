@@ -23,6 +23,6 @@ public class Ok {
 			System.out.println(i);
 		}
 	}
-	//yrs it is changed
+	//yes it is changed
 	
 }
